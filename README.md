@@ -9,11 +9,10 @@
 
 1. Assurez vous que Docker soit en marche
 2. Ouvrez un terminal
-3. Rendez-vous dans le répertoire dans lequel se trouve le projet en utilisant la commande : 
+3. Rendez-vous dans le répertoire dans lequel se trouve le projet en utilisant la commande ci-dessous. Remplacez "chemin_vers_projet" par le chemin vers le répertoire du projet (php-app). 
 ```
 cd chemin_vers_projet
 ```
-Remplacez "chemin_vers_projet" par le chemin vers le répertoire du projet (php-app).
 4. Tapez la commande suivante : 
 ```
 docker-compose up
